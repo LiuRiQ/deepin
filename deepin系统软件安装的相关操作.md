@@ -1,10 +1,10 @@
 ﻿# deepin系统软件安装的相关操作
 
-标签（空格分隔）： deepin mysql安装 jdk安装
+标签： deepin mysql安装 jdk安装
 
 ---
 
-												mysql的安装与配置
+				mysql的安装与配置
 1.mysql卸载
     `mysql -V`（查版本）
     `apt-get autoremove --purge mysql-server-5.5.36`(此处为版本号)
@@ -33,7 +33,7 @@
 	(7)`mysql> FLUSH PRIVILEGES;`
 	(8)退出数据库后重新登陆。
 
- 												JDK环境变量的配置
+ 					JDK环境变量的配置
 1.jdk下载
     在[oracle官网](https://www.oracle.com/technetwork/java/javase/downloads/index.html)下载压缩包，并解压，记录下jdk的安装路径。
 2.配置

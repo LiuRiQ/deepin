@@ -1,6 +1,6 @@
 ﻿# deepin系统软件安装的相关操作
 
- tag:deepin,mysql安装,jdk安装
+ tags:deepin mysql安装 jdk安装
 
 ---
 
@@ -63,15 +63,15 @@
 
 1.jdk下载
 
-    在[oracle官网](https://www.oracle.com/technetwork/java/javase/downloads/index.html)下载压缩包，并解压，记录下jdk的安装路径。
+    在oracle官网(https://www.oracle.com/technetwork/java/javase/downloads/index.html)下载压缩包，并解压，记录下jdk的安装路径。
     
 2.配置
+
  	（1）sudo vim /etc/profile
 	
  	（2）键入G定位到文末，键入i在当前位置插入，进行编辑
 	
-      	（3）
-      		JAVA_HOME=/usr/lib/jvm/jdk-13.0.1
+      	（3）    JAVA_HOME=/usr/lib/jvm/jdk-13.0.1
 	  	PATH=\$JAVA_HOME/bin:$PATH
 	 	export JAVA_HOME  PATH 
 		

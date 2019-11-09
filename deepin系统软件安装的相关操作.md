@@ -1,10 +1,11 @@
-﻿# deepin系统软件安装的相关操作
+title: deepin系统软件安装的相关操作
+
 date: 2019-11-10 00:12
 
 tags: deepin mysql安装 jdk安装
 
-language: zh-ch
 ---
+
 ## mysql的安装与配置
 1.mysql卸载
     mysql -V（查版本）

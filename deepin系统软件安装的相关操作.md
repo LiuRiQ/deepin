@@ -1,6 +1,7 @@
 ﻿# deepin系统软件安装的相关操作
-
- tags:deepin mysql安装 jdk安装
+date: 2019-11-10 00:12
+tags: deepin mysql安装 jdk安装
+language: zh-ch
 
 ---
 

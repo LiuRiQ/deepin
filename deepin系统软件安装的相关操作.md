@@ -1,6 +1,6 @@
 ﻿# deepin系统软件安装的相关操作
 
- tag: deepin mysql安装 jdk安装
+ tag:deepin,mysql安装,jdk安装
 
 ---
 
@@ -32,7 +32,7 @@
     
     带有 [*] 的选项将会输出较大篇幅的文字 - 可使用管道将其输出连接到 less 或 more ！
     
-## 2.mysql的安装与配置
+2.mysql的安装与配置
 
 	安装：
 	
@@ -59,7 +59,8 @@
 	(8)退出数据库后重新登陆。
 	
 
-JDK环境变量的配置
+## JDK环境变量的配置
+
 1.jdk下载
 
     在[oracle官网](https://www.oracle.com/technetwork/java/javase/downloads/index.html)下载压缩包，并解压，记录下jdk的安装路径。

@@ -71,11 +71,11 @@
 	
  	（2）键入G定位到文末，键入i在当前位置插入，进行编辑
 	
-      	（3）    JAVA_HOME=/usr/lib/jvm/jdk-13.0.1
-	  	PATH=\$JAVA_HOME/bin:$PATH
-	 	export JAVA_HOME  PATH 
+      	（3）JAVA_HOME=/usr/lib/jvm/jdk-13.0.1
+	  PATH=\$JAVA_HOME/bin:$PATH
+	  export JAVA_HOME  PATH 
 		
-		其中JAVA_HOME的值是jdk的安装路径。
+	  其中JAVA_HOME的值是jdk的安装路径。
 		
 	（4）source /etc/profile (配置立即生效)
 	
